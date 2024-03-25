@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209090930821",
+    "project_id": "capstone-fd1ff",
+    "storage_bucket": "capstone-fd1ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209090930821:android:b6bc06c132f048b77721ec",
+        "android_client_info": {
+          "package_name": "com.example.shapshift"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL1DuOc5YzvvkS5I4KFOxqviaLqmcMvTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
